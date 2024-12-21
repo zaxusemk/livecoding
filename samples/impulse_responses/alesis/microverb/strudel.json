@@ -1,4 +1,5 @@
 {
+    "_base": "https://raw.githubusercontent.com/zaxusemk/livecoding/refs/heads/main/samples/impulse_responses/alesis/microverb/",
     "mvgate1": "414177__joeribraams__alesis-microverb-ir-gate-1.wav",
     "mvgate2":"414176__joeribraams__alesis-microverb-ir-gate-2.wav",
 
