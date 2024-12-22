@@ -19,5 +19,17 @@
     "mvsmall3": "impulse_responses/alesis/microverb/414186__joeribraams__alesis-microverb-ir-small-3.wav",
     "mvsmall4": "impulse_responses/alesis/microverb/414189__joeribraams__alesis-microverb-ir-small-4.wav",
     "mvsmall5": "impulse_responses/alesis/microverb/414187__joeribraams__alesis-microverb-ir-small-5.wav",
-    "mvsmall6": "impulse_responses/alesis/microverb/414188__joeribraams__alesis-microverb-ir-small-6.wav"
+    "mvsmall6": "impulse_responses/alesis/microverb/414188__joeribraams__alesis-microverb-ir-small-6.wav",
+
+    "tapepiano": {
+        "a0": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-21.mp3",
+        "a1": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-33.mp3",
+        "a2": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-45.mp3",
+        "a3": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-57.mp3",
+        "a4": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-69.mp3",
+        "a5": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-77.mp3",
+        "a6": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-87.mp3",
+        "a7": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-89.mp3",
+        "a8": "instruments/reel-to-reel-tape-piano/PianoTk1Warble-96.mp3"
+    }
 }
